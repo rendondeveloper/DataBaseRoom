@@ -1,0 +1,133 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\o-lrendon\Documents\Proyectos_Git\DataBaseRoom\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\o-lrendon\Documents\Proyectos_Git\DataBaseRoom\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\o-lrendon\Documents\Proyectos_Git\DataBaseRoom\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\o-lrendon\Documents\Proyectos_Git\DataBaseRoom\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:design:27.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\40f10bc012342f0a5d0ce53969e310e1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\0ed46d136507ec6126b44b0ee460cdc2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\d5d93f0ab5287075c99f35f35944b90b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\5769a449367da0dcdcae57ed668b815d\AndroidManifest.xml:2:1-11:12
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\07f87a2a0cf0c1576c40ff2454c4bc24\AndroidManifest.xml:2:1-7:12
+MERGED from [android.arch.persistence.room:runtime:1.0.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\f090654dedee66bd57db1b0a987713ec\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\581730ee8e684b72f88c75aedbd248ad\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\cc7afbd723f63f35c5665ebb231ec761\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\04115184334cbcd6ed0de2696e1389f4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\491746f43bb7fd3aee9cc332d3396aaa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\e1c0e2716caf177c4b531f4576a26f1a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\bb24e7d8463eda1b92d03f4062999186\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db-framework:1.0.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\db-framework-1.0.0.aar\52272b6a1d3fb2287ea1eb9b51a29f2e\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.persistence:db:1.0.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\db-1.0.0.aar\5c659dff92027105bef3988f44705dff\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\cffaca089ff0a0c92a93e95e18856cfc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\173b841fc57e4cda71ad7a20ef517307\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\066af43e20c6f24aa8a3b0134cf8bc30\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\680bf92b35c76f78387f7609ba422257\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\1a5a31457b013aa0be751679fde9e3f9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\357f8c1e4878f3bf7ec8872b307b9ca1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b495c5e609556273a6c4bcbb8c648172\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\70dc5b55e63b05671997e0ab6e30b616\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\o-lrendon\Documents\Proyectos_Git\DataBaseRoom\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\o-lrendon\Documents\Proyectos_Git\DataBaseRoom\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\o-lrendon\Documents\Proyectos_Git\DataBaseRoom\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\o-lrendon\Documents\Proyectos_Git\DataBaseRoom\app\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from C:\Users\o-lrendon\Documents\Proyectos_Git\DataBaseRoom\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\o-lrendon\Documents\Proyectos_Git\DataBaseRoom\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\o-lrendon\Documents\Proyectos_Git\DataBaseRoom\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\o-lrendon\Documents\Proyectos_Git\DataBaseRoom\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\o-lrendon\Documents\Proyectos_Git\DataBaseRoom\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\o-lrendon\Documents\Proyectos_Git\DataBaseRoom\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\o-lrendon\Documents\Proyectos_Git\DataBaseRoom\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\o-lrendon\Documents\Proyectos_Git\DataBaseRoom\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\o-lrendon\Documents\Proyectos_Git\DataBaseRoom\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\o-lrendon\Documents\Proyectos_Git\DataBaseRoom\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\5769a449367da0dcdcae57ed668b815d\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\5769a449367da0dcdcae57ed668b815d\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\o-lrendon\Documents\Proyectos_Git\DataBaseRoom\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\o-lrendon\Documents\Proyectos_Git\DataBaseRoom\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\o-lrendon\Documents\Proyectos_Git\DataBaseRoom\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\o-lrendon\Documents\Proyectos_Git\DataBaseRoom\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\o-lrendon\Documents\Proyectos_Git\DataBaseRoom\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\o-lrendon\Documents\Proyectos_Git\DataBaseRoom\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.o_lrendon.databaseroom.MainActivity
+ADDED from C:\Users\o-lrendon\Documents\Proyectos_Git\DataBaseRoom\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\o-lrendon\Documents\Proyectos_Git\DataBaseRoom\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\o-lrendon\Documents\Proyectos_Git\DataBaseRoom\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\o-lrendon\Documents\Proyectos_Git\DataBaseRoom\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\o-lrendon\Documents\Proyectos_Git\DataBaseRoom\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\o-lrendon\Documents\Proyectos_Git\DataBaseRoom\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\o-lrendon\Documents\Proyectos_Git\DataBaseRoom\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\o-lrendon\Documents\Proyectos_Git\DataBaseRoom\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\o-lrendon\Documents\Proyectos_Git\DataBaseRoom\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\o-lrendon\Documents\Proyectos_Git\DataBaseRoom\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\40f10bc012342f0a5d0ce53969e310e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\40f10bc012342f0a5d0ce53969e310e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\0ed46d136507ec6126b44b0ee460cdc2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\0ed46d136507ec6126b44b0ee460cdc2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\d5d93f0ab5287075c99f35f35944b90b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\d5d93f0ab5287075c99f35f35944b90b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\5769a449367da0dcdcae57ed668b815d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\5769a449367da0dcdcae57ed668b815d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\07f87a2a0cf0c1576c40ff2454c4bc24\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\07f87a2a0cf0c1576c40ff2454c4bc24\AndroidManifest.xml:5:5-43
+MERGED from [android.arch.persistence.room:runtime:1.0.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\f090654dedee66bd57db1b0a987713ec\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\f090654dedee66bd57db1b0a987713ec\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\581730ee8e684b72f88c75aedbd248ad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\581730ee8e684b72f88c75aedbd248ad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\cc7afbd723f63f35c5665ebb231ec761\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\cc7afbd723f63f35c5665ebb231ec761\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\04115184334cbcd6ed0de2696e1389f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\04115184334cbcd6ed0de2696e1389f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\491746f43bb7fd3aee9cc332d3396aaa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\491746f43bb7fd3aee9cc332d3396aaa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\e1c0e2716caf177c4b531f4576a26f1a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\e1c0e2716caf177c4b531f4576a26f1a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\bb24e7d8463eda1b92d03f4062999186\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\bb24e7d8463eda1b92d03f4062999186\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.0.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\db-framework-1.0.0.aar\52272b6a1d3fb2287ea1eb9b51a29f2e\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db-framework:1.0.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\db-framework-1.0.0.aar\52272b6a1d3fb2287ea1eb9b51a29f2e\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\db-1.0.0.aar\5c659dff92027105bef3988f44705dff\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\db-1.0.0.aar\5c659dff92027105bef3988f44705dff\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\cffaca089ff0a0c92a93e95e18856cfc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\cffaca089ff0a0c92a93e95e18856cfc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\173b841fc57e4cda71ad7a20ef517307\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\173b841fc57e4cda71ad7a20ef517307\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\066af43e20c6f24aa8a3b0134cf8bc30\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\066af43e20c6f24aa8a3b0134cf8bc30\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\680bf92b35c76f78387f7609ba422257\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\680bf92b35c76f78387f7609ba422257\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\1a5a31457b013aa0be751679fde9e3f9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\1a5a31457b013aa0be751679fde9e3f9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\357f8c1e4878f3bf7ec8872b307b9ca1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\357f8c1e4878f3bf7ec8872b307b9ca1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b495c5e609556273a6c4bcbb8c648172\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b495c5e609556273a6c4bcbb8c648172\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\70dc5b55e63b05671997e0ab6e30b616\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\o-lrendon\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\70dc5b55e63b05671997e0ab6e30b616\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\o-lrendon\Documents\Proyectos_Git\DataBaseRoom\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\o-lrendon\Documents\Proyectos_Git\DataBaseRoom\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\o-lrendon\Documents\Proyectos_Git\DataBaseRoom\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\o-lrendon\Documents\Proyectos_Git\DataBaseRoom\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\o-lrendon\Documents\Proyectos_Git\DataBaseRoom\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\o-lrendon\Documents\Proyectos_Git\DataBaseRoom\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\o-lrendon\Documents\Proyectos_Git\DataBaseRoom\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\o-lrendon\Documents\Proyectos_Git\DataBaseRoom\app\src\main\AndroidManifest.xml
