@@ -41,6 +41,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     RecyclerView rvCardUser;
 
     private DataBase db = null;
+
     private AdapterCardUser adapterCardUser;
     private List<User> userList;
     @Override
